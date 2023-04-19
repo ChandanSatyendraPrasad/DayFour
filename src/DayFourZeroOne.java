@@ -1,10 +1,9 @@
-public class DayFourZeroOne {
+public class DayFourZeroOne {//Class
     private String firstname;
     private String lastname;
     private String userName;
     private String password;
     private String emailId;
-
     private long mobileno;
 
     public long getMobileno() {
